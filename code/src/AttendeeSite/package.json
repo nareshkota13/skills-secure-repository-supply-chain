@@ -17,7 +17,6 @@
     "axios": "^0.21.1",
     "chalk": "^4.0.0",
     "fs-extra": "^8.1.0",
-    
  "follow-redirects": {
    "version": "1.14.1",
    "resolved": "https://registry.npmjs.org/follow-redirects/-/follow-redirects-1.14.1.tgz",
